@@ -1,0 +1,1 @@
+$("id of the selector to which you want to append something" ).append( $( "#id of the something you want to append") );
